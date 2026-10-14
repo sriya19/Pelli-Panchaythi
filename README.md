@@ -27,7 +27,7 @@ Event year 2026 and INR are provisional. Countdown appears only after explicit c
 
 `public/couple.webp` is original generated miniature diorama art. Small section illustrations are original SVG components. Fani's ivory outfit is provisional. Characters are stylized, not based on reference photos. Respect reduced-motion preferences. Fonts have local serif/sans fallback if Google Fonts is unavailable.
 
-Source is in the existing sriya19/Pelli-Panchaythi checkout. This work has not been pushed and repository visibility has not been changed or verified.
+Source is in the existing sriya19/Pelli-Panchaythi checkout. The planner source and Pages workflow are pushed to main. Repository visibility has not been changed or verified.
 
 ## GitHub Pages
 
